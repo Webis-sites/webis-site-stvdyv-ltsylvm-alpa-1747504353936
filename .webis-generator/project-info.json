@@ -1,8 +1,35 @@
 {
   "projectName": "סטודיו-לצילום-אלפא-6100",
   "businessName": "סטודיו לצילום אלפא",
-  "created": "2025-05-17T18:21:40.184Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו סטודיו לצילום מוביל בתחום הצילום עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-05-17T18:22:04.154Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-stvdyv-ltsylvm-alpa-1747504353936",
+  "formData": {
+    "businessName": "סטודיו לצילום אלפא",
+    "businessType": "service",
+    "industry": "צילום",
+    "businessSize": "large",
+    "description": "אנחנו סטודיו לצילום מוביל בתחום הצילום עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#588C7E",
+    "secondaryColor": "#4ECDC4",
+    "typographyStyle": "classic",
+    "animationPreference": "moderate",
+    "headline": "סטודיו לצילום מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "סטודיו לצילום מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "סטודיו לצילום, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "brutalist"
+    ]
+  }
 }
