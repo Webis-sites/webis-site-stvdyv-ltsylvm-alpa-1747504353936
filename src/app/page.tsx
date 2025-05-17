@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import ServicesSection from '@/components/ServicesSection';
 import AboutSection from '@/components/AboutSection';
 import ProcessSection from '@/components/ProcessSection';
+import GallerySection from '@/components/GallerySection';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <ServicesSection />
         <AboutSection />
         <ProcessSection />
+        <GallerySection />
       </main>
     </>
   );
