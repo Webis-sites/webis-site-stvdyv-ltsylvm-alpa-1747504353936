@@ -9,6 +9,7 @@ import GallerySection from '@/components/GallerySection';
 import ContactSection from '@/components/ContactSection';
 import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
+import Button from '@/components/Button';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <ContactSection />
         <CTASection />
         <Footer />
+        <Button />
       </main>
     </>
   );
