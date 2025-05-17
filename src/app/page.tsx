@@ -10,6 +10,7 @@ import ContactSection from '@/components/ContactSection';
 import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
 import Button from '@/components/Button';
+import ImageCard from '@/components/ImageCard';
 
 export default function HomePage() {
   return (
@@ -26,6 +27,7 @@ export default function HomePage() {
         <CTASection />
         <Footer />
         <Button />
+        <ImageCard />
       </main>
     </>
   );
